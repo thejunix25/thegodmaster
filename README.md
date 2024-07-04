@@ -12,4 +12,7 @@
     test_connection()
 
 
-```dev```
+```python ```
+```        -if __name__ == "__main__":
+    test_connection()
+```
